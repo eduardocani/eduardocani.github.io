@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(19, 19, 19);
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;  
+    background-color: rgb(56, 90, 184);
+    border: none;
+    color: aliceblue;
+    border-radius: 15px;
+}
+
+button:hover{
+    width: 250px;
+}
+.confirmar{
+    background-color: rgb(161, 47, 91);
+
+}
+
+.cancelar{
+    background-color: red;
+}
+
